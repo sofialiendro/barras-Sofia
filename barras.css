@@ -1,0 +1,62 @@
+body {
+  display: block;
+  margin: 8px;
+}
+
+div {
+  display: block;
+}
+
+.barra {
+  width: 500px;
+  height: 30px;
+  background-color: #eaeaea;
+  padding: 3px;
+  border-radius: 100px;
+  margin: 20px;
+  
+}
+
+.diez {
+  width: 10%;
+  background-color: #4caf50;
+  height: 30px;
+  border-radius: 100px;
+  display: block;
+}
+
+.cuarto {
+  width: 25%;
+  background-color: #4caf50;
+  height: 30px;
+  border-radius: 100px;
+  display: block;
+}
+
+.mitad {
+  width: 50%;
+  background-color: #4caf50;
+  height: 30px;
+  border-radius: 100px;
+  display: block;
+}
+
+.setentaycinco {
+  width: 75%;
+  background-color: #4caf50;
+  height: 30px;
+  border-radius: 100px;
+  display: block;
+}
+
+element.style {
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 16px;
+  right: 16px;
+  border: none;
+  width: 118px;
+  height: 36px;
+  z-index: 9999999999999;
+}
